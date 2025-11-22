@@ -68,9 +68,10 @@ body {
   font-weight: bold;
   margin-bottom: 10px;
   display: inline-block;
-  border-bottom: 3px solid black; /* thickness reduced */
-  padding-bottom: 5px;
+  border-bottom: 2px solid black; /* thickness reduced */
+  padding-bottom: 3px; /* small space */
 }
+
 
 nav a:hover,
 nav a.active {
